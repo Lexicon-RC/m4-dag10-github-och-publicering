@@ -28,6 +28,7 @@ main {
   padding: var(--space-3);
   max-width: var(--max-width);
   margin: 0 auto;
+  flex: 1;
 }
 
 section {
